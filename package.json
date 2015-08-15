@@ -4,7 +4,7 @@
     "description": "Displays a fullscreen loader",
     "repository": {
         "type": "git",
-        "url": "git://github.com/jillix/jQuery.loading.git"
+        "url": "git://github.com/lcristianiim/engine-loader.git"
     },
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
